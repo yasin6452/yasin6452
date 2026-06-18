@@ -1,94 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hi+there👋;+I`am+mohammad+yasin+B+;+Passionate+Software+Engineering+student;with+a+knack+for+coding+and+a+love+for+;+learning+new+technologies:%29)](https://git.io/typing-svg) 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-  
-🔭 I Have 5 years of programming experience under my belt.<br>
-🌱 I juggle languages like C#, Python, Verilog, css ,html , javascript , php   ease.<br>
-🚀 My adventures in tech span from AI and machine learning to Verilog and SPICE codes in hardware.<br>
-📫 plus Full-Stack Development for Web  Applications.<br>
-🤔 I'm particularly fascinated by AI and image processing.<br>
-⚡ I'm always on the lookout for new challenges that expand my knowledge and keep me at the cutting edge of tech.<br>
-☕ When I'm not coding, you can find me sipping on coffee, My FUEL for Creativity and Innovation.<br>
-😄 Join me on my journey as I brew up some exciting projects and dive into the depths of Software Development<br>
+<div align="center">
 
-<br>
-<br>
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=yasin6452&show_icons=true&theme=dracula"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin6452&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yasin6452&theme=dracula&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-  <h2 align="left">
- language:
- </h2>
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Kezia-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kezia-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Kezia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kezia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-</div>
-<h2 align="left">
-Frameworks & server: 
-</h2>
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"> 
-  </div>
-  <h2 align="left">
- Database:
- </h2>
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-     <img align="center" alt="Kezia-Blender"  src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
+# Mohammad Yasin B.
 
-  </div>
-  <br>
- <h2 align="left">
- Design Tools:
- </h2>
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  </div>
-  <br>
- <h2 align="left">
-  General:
- </h2>
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  </div>
-  <br>
-  
- <p align="left">
-  💌📬⤵️
-</p>
-<div> 
- <!-- <a href="https://www.instagram.com/keziavictoria62/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "https://mb4890153@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <!-- a href="https://www.linkedin.com/in/kezia-victoria-3449b31a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/a> -->
+**Computer Engineering Student · AI for Agriculture & Automation**
+
+Shahid Bahonar University of Kerman · Kerman, Iran
+
+[![Email](https://img.shields.io/badge/Email-mb4890153%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mb4890153@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yasin6452-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/yasin6452)
+
 </div>
 
+---
+
+### About
+
+I build practical AI and automation systems for real-world, regional problems — mostly around agriculture, infrastructure, and Persian-language products. I also run server/hosting infrastructure for several web properties and handle full-stack development end to end.
+
+- 🌾 Deep learning for crop monitoring and plant disease detection (MobileNetV2, YOLOv8, TFLite on-device inference)
+- 🤖 RAG pipelines & LLM-backed tools for Persian-language use cases (FAISS, OpenRouter)
+- 🛠️ Full-stack web development (PHP/WordPress, FastAPI, JS) and Linux server administration (DirectAdmin)
+- 📱 Mobile deployment of ML models (Flutter, offline TFLite inference, RTL/Persian UI)
+
+---
+
+### Featured Work
+
+**Pistachio Psyllid Monitoring System** *(in progress)*
+YOLOv8-nano pipeline that counts adult psyllids, nymphs, and other insects from yellow sticky trap photos to compute insect density per trap and support IPM spray-threshold decisions for pistachio orchards in Kerman Province.
+
+**Kerman Investment RAG Chatbot** *(in progress)*
+A bilingual investment-recommendation assistant built on a cleaned 99-project regional dataset, FAISS vector search, and an OpenRouter-hosted LLM backend (chosen to work around regional API restrictions), served via FastAPI with a custom frontend.
+
+**LeafGuard — Plant Disease Detection**
+Fine-tuned MobileNetV2 on a 24-class, 41k-image dataset (~90% validation accuracy), converted to a 13MB TFLite model, and shipped in a Flutter app with fully offline inference and a Persian RTL interface. Documented in a full undergraduate thesis.
+
+**Kerman Investment Portal**
+Interactive WordPress widgets — live data ticker, sector/geography recommender, and an idea-generation tool — for a regional investment platform.
+
+**Infrastructure & Site Operations**
+Administer DirectAdmin hosting for multiple production sites, including an anime streaming platform (subscription/access logic, CDN-to-S3 media pipelines) and a meteorological site (resolved DNS/API connectivity issues for real-time weather data).
+
+---
+
+### Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Backend / Web**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Infrastructure**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![DirectAdmin](https://img.shields.io/badge/-DirectAdmin-2D2D2D?style=flat-square)
+
+---
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasin6452&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin6452&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
