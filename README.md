@@ -1,13 +1,24 @@
 <div align="center">
 
-# Mohammad Yasin B.
+# Mohammad Yasin Baloochi.
 
 **Computer Engineering Student · AI for Agriculture & Automation**
 
 Shahid Bahonar University of Kerman · Kerman, Iran
 
-[![Email](https://img.shields.io/badge/Email-mb4890153%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:mb4890153@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yasin6452-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/yasin6452)
+<br/>
+
+<a href="mailto:mb4890153@gmail.com" title="Email">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/yasin6452" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-yasin-baloochi-000365234/" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+</a>
 
 </div>
 
